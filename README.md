@@ -30,19 +30,8 @@
 - Original installers preserved as-is
 
 ### 🧲 Large Files (≥100 MB)  
-- **Torrent files** included in repository
-- Please help seed if you can!
+- Download from Archive.org **(links will be provided in the software folders.)**
 
----
-
-## 🤝 Seeding Notice
-
-> **⚠️ About Torrent Availability**
->
-> I try to keep torrents seeded 24/7, but sometimes my PC may be offline.
-> **Community help with seeding is greatly appreciated!**
->
-> If you download a file, please consider leaving your client open for a few hours to help others.
 
 ---
 
